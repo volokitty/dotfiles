@@ -1,1 +1,1 @@
-# linuxsetup
+# dotfiles
